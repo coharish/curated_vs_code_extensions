@@ -84,6 +84,10 @@ If you are a Frontend developer using VS Code as your primary code editor, you w
 
         AI powered documentation writer for JavaScript, Python, Java, Typescript & all other languages.
 
+23. [SVG Glimpse](https://marketplace.visualstudio.com/items?itemName=DevSoft.svg-viewer-vscode)
+
+        SVG viewer with pan and zoom functionality
+
 ## Bonus Extensions for React Developers
 
 Below are some important VS Code extensions you’ll need at some point in your development journey as you work with ReactJS.
